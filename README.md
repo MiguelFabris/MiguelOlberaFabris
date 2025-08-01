@@ -14,8 +14,8 @@ I am currently in the 3rd year of High School and I am finishing the technical c
   <img src="https://img.shields.io/badge/REACT-087EA4?style=for-the-badge&logo=react&logoColor=white" alt="">
   <div align="center" ><br>
     <a href="https://github.com/prof-cesar-dev" style="text-decoration: none;">
-    <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=prof-cesar-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prof-cesar-dev&layout=compact&langs_count=7&theme=radical"/>
+    <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=MiguelFabris&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFabris&layout=compact&langs_count=7&theme=radical"/>
     </a>
   
   <h2>My social networks</h2>
